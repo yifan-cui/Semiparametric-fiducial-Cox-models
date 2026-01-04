@@ -9,4 +9,5 @@ For Table S1 (n=30), nsample <- 30, nparts = 1, nmcmc <- 400, nburn <- 40
 
 For Table S2 (n=40), nsample <- 40, nparts = 10, nmcmc <- 1000, nburn <- 100
 
+
 To reproduce the real data application, run the script survival_data_analysis.R.
